@@ -12,7 +12,7 @@ Using Three.js and localStorage API, this project demonstrates how to communicat
 Clone the repository and open `index.html` in your browser to start exploring the 3D scene.
 
 ```
-git clone https://github.com/abummoja/MultiWindowJS-HTML
+git clone [https://github.com/abummoja/MultiWindowJS-HTML](https://github.com/abummoja/Multi-Window-JS)
 ```
 
 or just Download the source code.
